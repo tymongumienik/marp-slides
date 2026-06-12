@@ -370,7 +370,6 @@ How to build AI agents that actually do work
     <div style="background: linear-gradient(90deg, #ff6b1a, #ff8c4a); width: 95%; height: 100%; border-radius: 8px;"></div>
   </div>
 </div>
-
 <div style="margin-top: 16px;">
   <div style="display: flex; justify-content: space-between; font-size: 0.75em; margin-bottom: 4px;">
     <span>Tools <span style="color: #ff6b1a;">— 12 connected</span></span>
@@ -380,7 +379,6 @@ How to build AI agents that actually do work
     <div style="background: linear-gradient(90deg, #ff6b1a, #ff8c4a); width: 70%; height: 100%; border-radius: 8px;"></div>
   </div>
 </div>
-
 <div style="margin-top: 16px;">
   <div style="display: flex; justify-content: space-between; font-size: 0.75em; margin-bottom: 4px;">
     <span>Memory <span style="color: #ff6b1a;">— persistent store</span></span>
@@ -390,7 +388,6 @@ How to build AI agents that actually do work
     <div style="background: linear-gradient(90deg, #ff6b1a, #ff8c4a); width: 40%; height: 100%; border-radius: 8px;"></div>
   </div>
 </div>
-
 <div style="margin-top: 16px;">
   <div style="display: flex; justify-content: space-between; font-size: 0.75em; margin-bottom: 4px;">
     <span>Autonomy <span style="color: #ff6b1a;">— runs overnight</span></span>
@@ -801,7 +798,6 @@ const response = await client.messages.create({
     <div style="font-size: 0.75em; font-weight: 600; color: #22c55e; margin-top: 4px;">DONE</div>
   </div>
 </div>
-
 <div style="text-align: center; margin-top: 20px; color: #555; font-size: 0.8em;">Prompt → Reason → Act → Observe → repeat until done</div>
 
 ---

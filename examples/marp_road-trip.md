@@ -174,9 +174,7 @@ footer: ''
 # Pacific Coast Highway
 
 <div class="divider"></div>
-
 <div style="color: #9b8ab5; font-size: 0.95em;">San Francisco to Los Angeles — the ultimate coastal drive</div>
-
 <div class="pill-row">
   <span class="pill">
     <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#fc5c7d" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>

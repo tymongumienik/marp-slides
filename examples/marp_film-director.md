@@ -212,7 +212,6 @@ A Visual Study
     <strong>1996</strong> - Present
   </div>
 </div>
-
 <div class="tag-row">
   <span class="tag">Symmetry</span>
   <span class="tag">Pastels</span>
@@ -267,7 +266,6 @@ A Visual Study
     </div>
   </div>
 </div>
-
 <div style="display: flex; gap: 16px; margin-top: 20px;">
   <div style="flex: 1; text-align: center; padding: 10px; background: var(--card); border-radius: 8px; border: 1px solid var(--border);">
     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#e8a87c" stroke-width="1.5"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg>

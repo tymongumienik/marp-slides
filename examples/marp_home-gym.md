@@ -353,7 +353,6 @@ The proven split for hypertrophy and strength
   </div>
 
 </div>
-
 <div style="display: flex; justify-content: center; gap: 24px; margin-top: 16px;">
   <div style="display: flex; align-items: center; gap: 6px; font-size: 0.65em; color: var(--muted);">
     <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="2.5"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
@@ -468,7 +467,6 @@ The proven split for hypertrophy and strength
   </div>
 
 </div>
-
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 14px;">
   <div style="display: flex; align-items: center; gap: 6px; font-size: 0.6em; color: var(--muted);">
     <div style="width: 10px; height: 10px; border-radius: 2px; background: var(--accent);"></div> Push

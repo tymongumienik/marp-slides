@@ -174,7 +174,6 @@ From seed to harvest — a full season mapped out
     <span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span><span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span>
   </div>
 </div>
-
 <div class="gantt-row">
   <div class="gantt-label"><svg width="10" height="10" viewBox="0 0 10 10"><circle cx="5" cy="5" r="5" fill="#e74c3c"/></svg> Tomatoes</div>
   <div class="gantt-track">
@@ -232,7 +231,6 @@ From seed to harvest — a full season mapped out
     <div class="gantt-bar" style="left: 58.3%; width: 33.3%; background: linear-gradient(90deg, #2ecc71, #27ae60);">fall/winter</div>
   </div>
 </div>
-
 <div style="display: flex; gap: 16px; margin-top: 8px; font-size: 0.6em; color: var(--muted);">
   <span><svg width="8" height="8" viewBox="0 0 10 10"><circle cx="5" cy="5" r="4" fill="#6b8e23"/></svg> = seed indoors</span>
   <span style="display: inline-block; width: 20px; height: 8px; background: #6b8e23; border-radius: 2px; vertical-align: middle;"></span> = active growing/harvest window

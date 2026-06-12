@@ -198,7 +198,6 @@ A curated collection of 15 versatile pieces that mix and match endlessly
     50+ Outfits
   </span>
 </div>
-
 <div class="palette-row">
   <div class="palette-dot" style="background: #1a1a1a;"></div>
   <div class="palette-dot" style="background: #f5f0e8;"></div>
@@ -364,7 +363,6 @@ A curated collection of 15 versatile pieces that mix and match endlessly
   </div>
 
 </div>
-
 <div style="display: flex; justify-content: center; margin-top: 22px;">
   <div style="background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 12px 28px; display: flex; align-items: center; gap: 10px;">
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="1.5"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>

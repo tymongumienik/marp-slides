@@ -230,7 +230,6 @@ Finding the perfect place in Brooklyn
     </div>
   </div>
 </div>
-
 <div style="display: flex; gap: 14px; margin-top: 16px;">
   <div class="stat-card">
     <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#3498db" stroke-width="1.5" style="margin-bottom: 4px;"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
@@ -248,7 +247,6 @@ Finding the perfect place in Brooklyn
     <div style="color: #7f8c8d; font-size: 0.65em; text-transform: uppercase; letter-spacing: 0.1em;">Avg Rent Area</div>
   </div>
 </div>
-
 <div style="text-align: center; margin-top: 18px;">
   <span class="verdict-badge">
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.5" style="vertical-align: middle; margin-right: 6px;"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>

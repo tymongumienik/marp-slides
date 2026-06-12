@@ -322,7 +322,6 @@ Quick Reference Guide
     <p>If you bought a dev card, draw it. Play dev cards before rolling next turn.</p>
   </div>
 </div>
-
 <div style="text-align: center; margin-top: 18px; font-size: 0.72em; color: var(--muted);">
   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#b71c1c" stroke-width="2" style="vertical-align: middle;"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
   <strong style="color: #b71c1c;">Robber:</strong> On a roll of 7, move the robber. Players with 8+ cards discard half.

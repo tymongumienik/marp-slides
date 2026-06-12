@@ -44,7 +44,6 @@ footer: ''
   <div style="font-family: 'Outfit'; font-weight: 800; font-size: 3em; color: #fff; line-height: 1; letter-spacing: -0.03em;">Your AI Team</div>
   <div style="font-family: 'Raleway'; font-weight: 100; font-size: 0.85em; color: #ffffff33; margin-top: 8px;">Six agents. One mission. Running 24/7.</div>
 </div>
-
 <div style="display: flex; justify-content: center; margin-top: 24px;">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/notebook-lm.png" style="width: 200px;" />
 </div>

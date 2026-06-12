@@ -349,7 +349,6 @@ Three methods, one perfect cup
   </div>
 
 </div>
-
 <div style="text-align: center; margin-top: 14px;">
   <div style="display: flex; gap: 2px; justify-content: center; align-items: center;">
     <span style="font-size: 0.6em; color: var(--muted); text-transform: uppercase; letter-spacing: 0.1em; margin-right: 8px;">Grind Scale</span>

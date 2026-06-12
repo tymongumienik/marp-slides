@@ -320,7 +320,6 @@ A curated walk through the heart of Tokyo — temples, streets, food, and city v
   </div>
 
 </div>
-
 <div style="display: flex; justify-content: center; margin-top: 28px;">
   <div class="summary-card">
     <h4>Route Complete</h4>

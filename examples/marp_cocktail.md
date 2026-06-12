@@ -172,9 +172,7 @@ footer: ''
 # The Craft Bar
 
 <div class="gold-line"></div>
-
 <div style="color: #8a8070; font-size: 0.9em; font-style: italic; margin-bottom: 14px;">Tonight's Specials</div>
-
 <div style="display: flex; gap: 12px; justify-content: center;">
   <span class="menu-badge">3 Cocktails</span>
   <span class="menu-badge">Curated</span>

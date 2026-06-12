@@ -117,7 +117,6 @@ footer: ''
     </div>
   </div>
 </div>
-
 <div style="text-align: center; margin-top: 20px; font-weight: 200; font-size: 0.75em; color: #333;">
   Different tools for different workflows. Most power users run both.
 </div>

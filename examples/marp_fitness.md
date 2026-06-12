@@ -112,7 +112,6 @@ footer: ''
     </div>
   </div>
 </div>
-
 <div style="display: flex; gap: 24px; justify-content: center; margin-top: 24px;">
   <div style="text-align: center;">
     <svg width="90" height="90" viewBox="0 0 90 90">

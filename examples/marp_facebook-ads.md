@@ -65,7 +65,6 @@ footer: ''
 # Facebook Ads
 
 <div style="font-family: 'Raleway'; font-weight: 100; font-size: 1em; color: #ffffff55; margin-top: 8px;">April 2026 · Monthly Performance Report</div>
-
 <div style="display: flex; gap: 8px; margin-top: 20px;">
   <span style="background: #ff6b1a15; border: 1px solid #ff6b1a33; border-radius: 20px; padding: 4px 14px; font-family: 'Outfit'; font-size: 0.55em; color: #ff6b1aaa; font-weight: 400;">8 Campaigns</span>
   <span style="background: #ff6b1a15; border: 1px solid #ff6b1a33; border-radius: 20px; padding: 4px 14px; font-family: 'Outfit'; font-size: 0.55em; color: #ff6b1aaa; font-weight: 400;">$10.9K Spend</span>
@@ -585,7 +584,6 @@ footer: ''
     <div style="font-family: 'Outfit'; font-size: 2.2em; font-weight: 800; color: var(--t); line-height: 1;">750+</div>
   </div>
 </div>
-
 <div style="margin-top: 20px; font-weight: 200; font-size: 0.78em; color: var(--label); text-align: center;">
   +5% spend → +15% revenue. Efficiency from reallocation, not more money.
 </div>

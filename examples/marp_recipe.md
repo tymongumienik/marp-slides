@@ -53,9 +53,7 @@ footer: ''
     <svg width="8" height="8" viewBox="0 0 12 12" style="vertical-align: middle; margin-right: 5px;"><rect x="1" y="1" width="10" height="10" rx="2" fill="none" stroke="#c4956a" stroke-width="1.2"/></svg>1 tbsp soy sauce
   </div>
 </div>
-
 <div style="height: 1px; background: #1a1612; margin: 10px 0;"></div>
-
 <div>
   <div style="font-family: 'DM Serif Display'; font-size: 0.85em; color: #f5f0eb; margin-bottom: 6px;">Sides</div>
   <div style="font-size: 0.65em; color: #8a7e72; line-height: 1.9;">
@@ -65,9 +63,7 @@ footer: ''
     <svg width="8" height="8" viewBox="0 0 12 12" style="vertical-align: middle; margin-right: 5px;"><rect x="1" y="1" width="10" height="10" rx="2" fill="none" stroke="#c4956a" stroke-width="1.2"/></svg>Sesame seeds + scallions
   </div>
 </div>
-
 <div style="height: 1px; background: #1a1612; margin: 10px 0;"></div>
-
 <div>
   <div style="font-family: 'DM Serif Display'; font-size: 0.85em; color: #f5f0eb; margin-bottom: 6px;">Nutrition</div>
   <div style="display: flex; gap: 12px;">
